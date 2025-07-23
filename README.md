@@ -52,6 +52,9 @@ Using MySQL, I conducted a deep dive into:
 - 📦 Large orders (10+ items) are common, suggesting group dining or catering.
 - 🔝 Dishes like *Chicken Parmesan*, *Eggplant Parmesan*, and *Spaghetti & Meatballs* consistently appear in top orders.
 
+The mysql queries used to explore the menu items table can be found here [title](https://www.example.com)
+The mysql queries used to explore the orders table can be found here
+The mysql queries used to comnbine and explore the combine tables can be found here
 ---
 
 ## Insights Deep Dive
